@@ -46,5 +46,3 @@ Sou um desenvolvedor em transição de carreira, aprendendo e construindo projet
 ![Trophies](https://github-profile-trophy.vercel.app/?username=dev-brunofreitas&theme=tokyonight&no-frame=true&row=1&column=6)
 
 
-
-
