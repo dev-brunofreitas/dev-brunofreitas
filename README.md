@@ -41,6 +41,10 @@ Sou um desenvolvedor em transição de carreira, aprendendo e construindo projet
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-brunofreitas&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=dev-brunofreitas&theme=tokyonight&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=dev-brunofreitas&theme=tokyonight&no-frame=true&row=1&column=6)
+
 
 
 
