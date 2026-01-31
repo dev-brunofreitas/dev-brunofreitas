@@ -37,7 +37,10 @@ Sou um desenvolvedor em transição de carreira, aprendendo e construindo projet
 
 ## 📊 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-brunofreitas&show_icons=true&theme=tokyonight)
+![Bruno GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-brunofreitas&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-brunofreitas&layout=compact&theme=tokyonight)
+
 
 
 
