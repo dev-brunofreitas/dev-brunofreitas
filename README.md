@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Bruno!
 
-<!--
-**dev-brunofreitas/dev-brunofreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedor Full Stack em formação | Focado em Java, Spring Boot e Web
 
-Here are some ideas to get you started:
+Fortaleza • Brasil 🇧🇷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚧 Sobre mim
+
+Sou um desenvolvedor em transição de carreira, aprendendo e construindo projetos com foco em eficiência, boas práticas e soluções web.
+
+✨ Apaixonado por tecnologia, lógica e aprendizado contínuo.
+
+---
+
+## 🛠️ Tech Stack
+
+**Linguagens & Frameworks:**
+- Java
+- Spring Boot
+- HTML / CSS / JavaScript
+- Git & GitHub
+
+**Aprendendo:**
+- APIs REST
+- Banco de dados (MySQL / PostgreSQL)
+
+---
+
+## 📌 Onde me encontrar
+
+🔗 [LinkedIn](https://www.linkedin.com/in/bruno-freitas-6bb88561)  
+🔗 [GitHub](https://github.com/dev-brunofreitas)
+
+---
+
+## 📊 Estatísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-brunofreitas&show_icons=true&theme=tokyonight)
+
+
+
