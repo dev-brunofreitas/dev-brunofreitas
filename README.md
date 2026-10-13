@@ -46,6 +46,6 @@ Atualmente, aplico toda essa maturidade operacional e foco em processos na const
 📊 **Estatísticas do GitHub:**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-brunofreitas&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-brunofreitas&layout=compact&theme=radial" alt="Linguagens Mais Usadas" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-brunofreitas&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-brunofreitas&layout=compact&theme=radial" alt="Linguagens Mais Usadas" height="165" />
 </p>
