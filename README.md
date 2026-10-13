@@ -1,48 +1,49 @@
-# 👋 Olá, eu sou o Bruno!
+# 👋 Olá, eu sou o Bruno Freitas!
 
-🚀 Desenvolvedor Full Stack em formação | Focado em Java, Spring Boot e Web
+### 🚀 Desenvolvedor Back-End | Java & Spring Boot
 
-Fortaleza • Brasil 🇧🇷
+Formando em **Análise e Desenvolvimento de Sistemas** e graduado em **Logística**. Trago uma bagagem profissional de **9 anos na APM Terminals (Complexo Industrial e Portuário do Pecém)**, atuando na gestão de operações críticas, acompanhamento de KPIs/SLAs, validação de regras de negócio e resolução de problemas sob pressão em sistemas corporativos.
 
----
-
-## 🚧 Sobre mim
-
-Sou um desenvolvedor em transição de carreira, aprendendo e construindo projetos com foco em eficiência, boas práticas e soluções web.
-
-✨ Apaixonado por tecnologia, lógica e aprendizado contínuo.
+Atualmente, aplico toda essa maturidade operacional e foco em processos na construção de soluções **Backend robustas, escaláveis e de alta qualidade**.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack & Ferramentas
 
 **Linguagens & Frameworks:**
-- Java
-- Spring Boot
-- HTML / CSS / JavaScript
-- Git & GitHub
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
-**Aprendendo:**
-- APIs REST
-- Banco de dados (MySQL / PostgreSQL)
+**Bancos de Dados:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**DevOps, Testes & Ferramentas:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 ---
 
-## 📌 Onde me encontrar
+### 📌 Destaques & Projetos
 
-🔗 [LinkedIn](https://www.linkedin.com/in/bruno-freitas-6bb88561)  
-🔗 [GitHub](https://github.com/dev-brunofreitas)
+- ⚙️ **[Sistema de Agendamento de Tarefas](https://github.com/dev-brunofreitas/agendador-tarefas):** Arquitetura baseada em microsserviços dividida em módulos (*Usuário*, *Agendamento* e *Notificação*), com Spring Security, APIs REST completas e integração assíncrona.
+- 📐 **Boas Práticas:** Foco contínuo em *Clean Code*, princípios *SOLID*, arquitetura RESTful e testes automatizados.
 
 ---
 
-## 📊 Estatísticas
+### 📫 Vamos nos conectar?
 
-![Bruno GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-brunofreitas&show_icons=true&theme=tokyonight)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-freitas-6bb88561/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunopfreitas93@gmail.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-brunofreitas&layout=compact&theme=tokyonight)
+---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dev-brunofreitas&theme=tokyonight&hide_border=true)
+📊 **Estatísticas do GitHub:**
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=dev-brunofreitas&theme=tokyonight&no-frame=true&row=1&column=6)
-
-
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-brunofreitas&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-brunofreitas&layout=compact&theme=radial)
